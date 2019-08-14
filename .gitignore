@@ -18,9 +18,12 @@ DerivedData/
 xcuserdata/
 
 ## Other
+*.DS_Store
 *.moved-aside
 *.xccheckout
 *.xcscmblueprint
+*.xcodeproj
+Package.resolved
 
 ## Obj-C/Swift specific
 *.hmap
